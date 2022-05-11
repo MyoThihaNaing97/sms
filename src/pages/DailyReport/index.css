@@ -1,0 +1,30 @@
+.position{
+    padding-left:15px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+h3{
+    margin-top: 15px;
+    padding-left: 30px;
+}
+.ant-tabs .ant-tabs-left-bar .ant-tabs-tab {
+    text-align: center;
+    width: 200px;
+    font-size: 18px;
+    text-decoration:underline;
+}
+.btn1{
+    margin-left: 30%;
+    margin-top:30px;
+    border-radius: 20px;
+}
+.btn2{
+    margin-left: 10%;
+    margin-top:30px;
+    border-radius: 20px;
+    background: whitesmoke;
+    color:blue;
+}
+.btn2:hover{
+    background: blue;
+}

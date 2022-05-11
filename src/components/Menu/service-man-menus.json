@@ -1,0 +1,28 @@
+{
+    "menu":[
+        {
+            "key":"1",
+            "name": "Dashboard",
+            "icon": "dashboard",
+            "path": "/"
+        },
+        {
+            "key":"2",
+            "name": "Profile",
+            "icon": "profile",
+            "path": "/profile"
+        },
+        {
+            "key":"3",
+            "name": "Job",
+            "icon": "job",
+            "path": "/job"
+        },
+        {
+            "key":"4",
+            "name": "Daily Report",
+            "icon": "daily-report",
+            "path": "/daily-report"
+        }
+    ]
+}
